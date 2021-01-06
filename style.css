@@ -11,6 +11,11 @@ h2{
 h3{
     font-size: 30px;
 }
+h4{
+    font-size: 17px;
+    font-weight: 600;
+    padding: 0 10px;
+}
 p{
     font-size: 15px;
     font-weight: 400;
@@ -67,11 +72,11 @@ section{
     color: #858585;
 
 }
-#me1{
+.me1{
     color: #363958;
     margin: 0;
 }
-#me2{
+.me2{
     color: #FF8367;
     margin: 0;
 }
@@ -86,5 +91,20 @@ section{
 }
 .project{
     text-align: center;
+    padding:102px 0;
 
+}
+.fourt{
+    background-color: #F8F9FC;
+}
+.fourt-section{
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+    background-color: #fff;
+}
+.fourt-section img{
+    width: 96%;
+    padding: 20px 0;
 }
