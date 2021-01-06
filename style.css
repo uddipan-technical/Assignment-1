@@ -46,7 +46,7 @@ p{
 }
 .manubar ul{list-style-type: none;margin: 0;padding: o;}
 .manubar ul li{display: inline-block;
-    padding-right: 40px;
+    padding-right: 30px;
 }
 .manubar ul li a{text-decoration: none;
     color: black;
